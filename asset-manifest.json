@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/libraryReact./static/css/main.a9dcda01.css",
-    "main.js": "/libraryReact./static/js/main.740e3010.js",
-    "static/js/453.778c9a8b.chunk.js": "/libraryReact./static/js/453.778c9a8b.chunk.js",
-    "index.html": "/libraryReact./index.html",
-    "main.a9dcda01.css.map": "/libraryReact./static/css/main.a9dcda01.css.map",
-    "main.740e3010.js.map": "/libraryReact./static/js/main.740e3010.js.map",
-    "453.778c9a8b.chunk.js.map": "/libraryReact./static/js/453.778c9a8b.chunk.js.map"
+    "main.css": "/libraryReact/static/css/main.a9dcda01.css",
+    "main.js": "/libraryReact/static/js/main.34e8ad14.js",
+    "static/js/453.778c9a8b.chunk.js": "/libraryReact/static/js/453.778c9a8b.chunk.js",
+    "index.html": "/libraryReact/index.html",
+    "main.a9dcda01.css.map": "/libraryReact/static/css/main.a9dcda01.css.map",
+    "main.34e8ad14.js.map": "/libraryReact/static/js/main.34e8ad14.js.map",
+    "453.778c9a8b.chunk.js.map": "/libraryReact/static/js/453.778c9a8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9dcda01.css",
-    "static/js/main.740e3010.js"
+    "static/js/main.34e8ad14.js"
   ]
 }
